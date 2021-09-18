@@ -1,10 +1,14 @@
-### Hi I'm UiJeong Jeon 👋
-<img src="/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-😎 ##Introduce
-This repository is used in Open Source Software lectures!   
-I'm UiJeong Jeon, I'm a computer science major! 
+# This repository is used in Open Source Software lectures! 👋   
 
-📆 ##When?    
+![](https://www.designnews.com/sites/designnews.com/files/styles/article_featured_retina/public/Design%20News/open-source-software.png?itok=4RBLu9_P)   
+
+## 😎 Introduce
+Hi~ I'm UiJeong Jeon, I'm a 💻computer science💻 major!     
+I expect to ...   
+* To understand essential mathematical concepts using Python and its OSS
+* To understand and apply machine learning and deep learning using Python and its OSS    
+
+## 📆 When?    
  : 2021.09.16 ~ ing   
 
 
