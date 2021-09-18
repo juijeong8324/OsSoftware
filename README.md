@@ -1,4 +1,4 @@
-# This repository is used in Open Source Software lectures! 👋   
+# This repository is used  Open Source Software lectures! 👋   
 
 ![](https://www.designnews.com/sites/designnews.com/files/styles/article_featured_retina/public/Design%20News/open-source-software.png?itok=4RBLu9_P)   
 
