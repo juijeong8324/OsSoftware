@@ -23,7 +23,7 @@ I expect to ...
 |Linear Algebra|링크|테스트3|링크| 
 |Optimization|링크|테스트3|링크| 
 |Probability|링크|테스트3|링크|
-|ML|링크|테스트3|링크|
+|ML|링크|테스트3|링크|       
 
 <br>
 <br>
