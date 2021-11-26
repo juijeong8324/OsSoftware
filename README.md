@@ -15,8 +15,14 @@ I expect to ...
 <br>   
 <br>   
 
-> ## :books: Project?
+> ## :books: Lecture Project?
+|강의주제|강의자료 및 코드|실습주제|실습코드|
+|:---:|:---:|:---:|:---:|
+|Python(Basic, Intermediate, STD Library)|링크|테스트3|링크|       
+|Calculus|링크|테스트3|링크| 
+|Linear Algebra|링크|테스트3|링크| 
+|Optimization|링크|테스트3|링크| 
+|Probability|링크|테스트3|링크|
+|ML|링크|테스트3|링크|
 
-
-
- 
+> ## 💻 Project
