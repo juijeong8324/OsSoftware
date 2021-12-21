@@ -1,14 +1,21 @@
 # ✏ MyEveryMap.v0      
-아직 정리중...     
-![image]()          
+ 
+![image](https://user-images.githubusercontent.com/63052097/146947234-ad8320de-2499-4c20-8f0b-53596013135d.png)    
 - 수강신청 전 (현)서울과학기술대학교 캠퍼스 경로 확인 프로그램입니다.
 - 에브리 타임 계정과 시간표를 입력하면 각 요일마다 이동해야 하는 캠퍼스 건물의 최단 경로를 보여주는 서비스입니다.        
-- 
 
 <br>
 <br>        
 
 ## 프로그램 사용 방법         
+![image](https://user-images.githubusercontent.com/63052097/146943647-c2c3ea3b-65ba-4c20-ab28-b6a41f336dad.png)       
+1. 먼저 timetable.py에 가서 에브리 타임 아이디와 비밀번호를 적어줍니다. 또한 어떤 시간표를 보고 싶은지 번호를 적어주세요!    
+![image](https://user-images.githubusercontent.com/63052097/146944041-182a6427-994c-4aef-a01c-95373be6e26f.png) 
+2. start.py에 가서 프로그램을 재생시켜줍니다. 이 파일에서 데이터를 가공하고 map을 생성해줍니다. 
+![image](https://user-images.githubusercontent.com/63052097/146944753-a528588c-9f39-4549-9f4d-9844c317e6f2.png)
+3. test.html에 가서 결과를 확인합니다! 
+![image](https://user-images.githubusercontent.com/63052097/146947362-2ac962b0-63e2-4dca-b12c-dd79d5ef1d57.png)
+짜잔 경로가 나왔습니다!    
 
 ---     
 
@@ -26,7 +33,8 @@
 
 <br> 
 
-## 프로젝트 작업 과정 
+## 프로젝트 작업 과정 및 구현한 기능
+### 
 
 ## 앞으로 고려해야 할 부분          
 1. 모든 학교 홈페이지에서 사용할 수 있어야 한다고 할 때 지도 그림은 어디서 구할 수 있는가(지도 형태가 정확히 위에서 바라보는 것이 아닌 측면에서 바라보는 경우가 많음)              
