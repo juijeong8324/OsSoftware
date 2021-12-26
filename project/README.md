@@ -10,17 +10,26 @@
 ## 프로그램 사용 방법         
 <img src="https://user-images.githubusercontent.com/63052097/146943647-c2c3ea3b-65ba-4c20-ab28-b6a41f336dad.png" width=500 />     
 <img src="https://user-images.githubusercontent.com/63052097/146949864-4d1b34ca-ca6b-473c-b25b-8b27bb19e4f0.png" width=500 />
-1. 먼저 timetable.py에 가서 에브리 타임 아이디와 비밀번호를 적어줍니다. 또한 어떤 시간표를 보고 싶은지 번호를 적어주세요! 제 시간표는 첨부해 두었습니다!        
-<br>  
+1. 먼저 timetable.py에 가서 에브리 타임 아이디와 비밀번호를 적어줍니다. 또한 어떤 시간표를 보고 싶은지 번호를 적어주세요! 제 시간표는 첨부해 두었습니다!       
+ 
+<br>
+<br>   
+
 <img src="https://user-images.githubusercontent.com/63052097/146944041-182a6427-994c-4aef-a01c-95373be6e26f.png" width=500 />    
 2. start.py에 가서 프로그램을 재생시켜줍니다. 이 파일에서 데이터를 가공하고 map을 생성해줍니다.          
 <br>
+<br>     
+
 <img src="https://user-images.githubusercontent.com/63052097/146944753-a528588c-9f39-4549-9f4d-9844c317e6f2.png" width=500 />
 3. test.html에 가서 결과를 확인합니다!            
 <br>
+<br>     
+
 <img src="https://user-images.githubusercontent.com/63052097/146947362-2ac962b0-63e2-4dca-b12c-dd79d5ef1d57.png" width=500 />
 짜잔 해당 건물과 경로가 나왔습니다! 경로가 없는 건물은 한 요일에 해당 건물만 사용하는 거에요!         
 <br>
+<br>       
+         
 <img src="https://user-images.githubusercontent.com/63052097/146949267-a842c0dd-d11f-483e-8ee9-6935c7f1e42e.png" width=500 />
 4. 경로를 추가하고 싶다면 location data에 해당 경로의 좌표를 하나씩 직접 추가하면 됩니다! -> 해당 프로그램을 개발해볼까요!?!?! 
 
